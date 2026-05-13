@@ -47,46 +47,37 @@ CS undergrad grinding through code one project at a time. I come from a graphic 
 ## Featured Projects
 
 ###  [Cooked Delights — Recipe Website](https://github.com/Yunus-Rana/Project-Cooked-Delights-Recipe-Website)
-A fully responsive recipe platform built with pure HTML & CSS. Features a design system with consistent color palette, CSS Grid recipe cards, Flexbox navigation, and hover interactions throughout.
+A fully responsive recipe platform built with pure HTML & CSS. Features a design system with a consistent color palette, CSS Grid recipe cards, Flexbox navigation, and hover interactions throughout.
 `HTML5` `CSS3` `CSS Grid` `Flexbox` · [**Live Demo →**](https://yunus-rana.github.io/Project-Cooked-Delights-Recipe-Website/)
 
 ---
 
 ###  [Silver Oak Academy — Web Portal](https://github.com/Yunus-Rana/Project-Silver-Oak-Academy-Web-Portal)
 Multi-page institutional platform using semantic HTML5 and modern CSS3 methodologies. Built a cohesive design system using CSS Variables and complex Flexbox/Grid layouts.
-`HTML5` `CSS3` `CSS Variables` `Responsive Design`
+`HTML5` `CSS3` `CSS Variables` `Responsive Design` · [**Live Demo →**](https://yunus-rana.github.io/Project-Silver-Oak-Academy-Web-Portal/)
 
 ---
 
 ###  [Dynamic Profile Schema](https://github.com/Yunus-Rana/Project-Dynamic-Profile-Schema)
 A data management layer using JavaScript ES6+ simulating backend-to-frontend data flows. Implemented OOP through Object Literals and Method Encapsulation for multi-layered user identities.
-`JavaScript ES6+` `OOP` `DOM`
+`JavaScript ES6+` `OOP` `DOM` 
 
 ---
 
 ###  [Professional Digital Resume](https://github.com/Yunus-Rana/Professional-Digital-Resume)
 A digital resume built entirely with HTML & CSS — my first structured web project.
-`HTML5` `CSS3`
+`HTML5` `CSS3` · [**Live Demo →**](https://yunus-rana.github.io/Professional-Digital-Resume/)
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Yunus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yunus-Rana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunus-Rana&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 
 
 <div align="center">
 
 📬 **yunus.rana24@gmail.com** · [GitHub](https://github.com/Yunus-Rana)
+
+
 📬 **kingrmys@gmail.com**
 
 
